@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/animations/animation_slide_up/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/animations/animation_slide_up/build" />
+      <excludeFolder url="file://$MODULE_DIR$/animations/animation_swipe_to_confirm/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/animations/animation_swipe_to_confirm/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ui_challenges/flutter_application_ecommerce/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ui_challenges/flutter_application_ecommerce/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ui_challenges/flutter_application_ecommerce/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ui_challenges/freelancer_profile/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ui_challenges/freelancer_profile/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ui_challenges/ui_login_register/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ui_challenges/ui_login_register/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>

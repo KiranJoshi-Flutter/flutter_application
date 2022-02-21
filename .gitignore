@@ -1,0 +1,3 @@
+# Project exclude paths
+/ui_challenges/flutter_application_ecommerce/.dart_tool/
+/ui_challenges/flutter_application_ecommerce/build/
